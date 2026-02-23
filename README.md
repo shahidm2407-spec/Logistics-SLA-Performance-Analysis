@@ -104,8 +104,6 @@ Delay percentage trend
 
 Supports performance tracking over time.
 
-![Dashboard Screenshot](Dashboard.png)
-
 🧠 Business Logic
 
 On Time → actual_delivery_date ≤ expected_delivery_date
