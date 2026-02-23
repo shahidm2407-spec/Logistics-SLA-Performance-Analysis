@@ -122,6 +122,10 @@ SQL (JOIN, GROUP BY, conditional aggregation)
 
 Date-based time analysis
 
+## 📊 Dashboard Preview
+
+![SLA Dashboard](dashboard.png)
+
 KPI modeling
 
 📁 Project Structure
