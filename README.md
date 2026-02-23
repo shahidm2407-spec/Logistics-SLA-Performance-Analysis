@@ -124,7 +124,7 @@ Date-based time analysis
 
 ## 📊 Dashboard Preview
 
-![SLA Dashboard](dashboard.png)
+![SLA Dashboard](Dashboard.png)
 
 KPI modeling
 
